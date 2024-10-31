@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Schema Integration\n"
+"POT-Creation-Date: 2020-11-19 12:45+0200\n"
+"PO-Revision-Date: 2020-11-19 11:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;__e;esc_attr_e;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: core\n"
+"X-Poedit-SearchPath-2: front\n"
+"X-Poedit-SearchPathExcluded-0: admin/src\n"
+
+#: admin/class-admin.php:167
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:200 admin/class-admin.php:211
+msgid "Schema Int."
+msgstr ""
+
+#: admin/class-admin.php:201
+msgid "Schema"
+msgstr ""
+
+#: admin/class-admin.php:202 admin/class-admin.php:203
+msgid "Add new schema"
+msgstr ""
+
+#: admin/class-admin.php:204
+msgid "Edit schema"
+msgstr ""
+
+#: admin/class-admin.php:205
+msgid "New schema"
+msgstr ""
+
+#: admin/class-admin.php:206
+msgid "View schema"
+msgstr ""
+
+#: admin/class-admin.php:207
+msgid "Search schema"
+msgstr ""
+
+#: admin/class-admin.php:208
+msgid "Schemas not found"
+msgstr ""
+
+#: admin/class-admin.php:209
+msgid "Schemas not fount in trash"
+msgstr ""
+
+#: admin/class-admin.php:257
+msgid "Data types"
+msgstr ""
+
+#: admin/class-admin.php:260
+msgid "Object"
+msgstr ""
+
+#: admin/class-admin.php:264
+msgid "Site data"
+msgstr ""
+
+#: admin/class-admin.php:267
+msgid "Post data"
+msgstr ""
+
+#: admin/class-admin.php:270
+msgid "Term data"
+msgstr ""
+
+#: admin/class-admin.php:273
+msgid "Custom data"
+msgstr ""
+
+#: admin/partials/options/page-options.php:22
+msgid "Enable microdata on AMP version?"
+msgstr ""
+
+#: admin/partials/options/page-options.php:26
+msgid "Save"
+msgstr ""
